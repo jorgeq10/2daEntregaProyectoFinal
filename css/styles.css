@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&family=Montserrat:ital,wght@0,400;1,400;1,500;1,700&family=Open+Sans:ital,wght@1,300;1,400&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#redes a:hover{
+    background-color: black
+}
+
+#menu li:hover{
+    background-color: #bc2c74;
+}
+
+
+
